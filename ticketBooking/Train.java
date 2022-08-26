@@ -6,10 +6,6 @@ import java.util.LinkedList;
 
 
 public class Train {
-	/*int lowerBerth=1;            ///114;
-	int middleBerth=1;            ///76;
-	int upperBerth=1;   */       ///114;
-	
 	
 	int racListSeats=100;
 	int waitingList=100;
